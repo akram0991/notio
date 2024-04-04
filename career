@@ -11,11 +11,9 @@ h.appendChild(e)
 })(window,document,'https://widget.nichesss.com/dist/nichesss.embed.min.js')
 
 nq(function () {
-  window.nichesss_WuZwDbi4U9E0Z7X_button = new nichesss.Widget('#nichesss_WuZwDbi4U9E0Z7X', {
+  new nichesss.Widget('#nichesss_WuZwDbi4U9E0Z7X', {
     id: 'WuZwDbi4U9E0Z7X',
-    button: true
+    width: 450
   });
 });
 </script>
-
-<a href="javascript:void(0);" class="nichesss--button" onclick="nichesss_WuZwDbi4U9E0Z7X_button.open();">Open Copy Generator</a>
