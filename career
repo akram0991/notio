@@ -1,0 +1,21 @@
+<div id="nichesss_WuZwDbi4U9E0Z7X"></div>
+
+<script type="text/javascript">
+(function (n,i,c,h,e,s) {
+if (n.nq) { return; }
+n.nichesss = n.nichesss || {}; n.nqq = []; n.nq = function (fn) { n.nichesss && n.nichesss.Widget ? fn.call() : n.nqq.push(fn) }
+h = i.getElementsByTagName('head')[0];
+e = i.createElement('script');
+e.src=c+'?v=' + (new Date()).getTime();
+h.appendChild(e)
+})(window,document,'https://widget.nichesss.com/dist/nichesss.embed.min.js')
+
+nq(function () {
+  window.nichesss_WuZwDbi4U9E0Z7X_button = new nichesss.Widget('#nichesss_WuZwDbi4U9E0Z7X', {
+    id: 'WuZwDbi4U9E0Z7X',
+    button: true
+  });
+});
+</script>
+
+<a href="javascript:void(0);" class="nichesss--button" onclick="nichesss_WuZwDbi4U9E0Z7X_button.open();">Open Copy Generator</a>
